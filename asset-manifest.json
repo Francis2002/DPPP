@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DPPP/static/css/main.b93d3096.css",
+    "main.js": "/DPPP/static/js/main.95277b3b.js",
+    "index.html": "/DPPP/index.html",
+    "static/media/search.svg": "/DPPP/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.b93d3096.css.map": "/DPPP/static/css/main.b93d3096.css.map",
+    "main.95277b3b.js.map": "/DPPP/static/js/main.95277b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93d3096.css",
+    "static/js/main.95277b3b.js"
+  ]
+}
