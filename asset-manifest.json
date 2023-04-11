@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DPPP/static/css/main.b93d3096.css",
-    "main.js": "/DPPP/static/js/main.95277b3b.js",
+    "main.js": "/DPPP/static/js/main.d990ff09.js",
     "index.html": "/DPPP/index.html",
     "static/media/search.svg": "/DPPP/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.b93d3096.css.map": "/DPPP/static/css/main.b93d3096.css.map",
-    "main.95277b3b.js.map": "/DPPP/static/js/main.95277b3b.js.map"
+    "main.d990ff09.js.map": "/DPPP/static/js/main.d990ff09.js.map"
   },
   "entrypoints": [
     "static/css/main.b93d3096.css",
-    "static/js/main.95277b3b.js"
+    "static/js/main.d990ff09.js"
   ]
 }
